@@ -67,7 +67,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: 22222222222222222222222222222222, type: 3}
+  m_Script: {fileID: 11500000, guid: 3a10fff9cca04970bf261ae073432a3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mainSceneName: MainGame

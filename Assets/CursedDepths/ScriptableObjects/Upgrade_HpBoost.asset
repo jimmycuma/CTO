@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34567890abcdef1234567890abcdef12, type: 3}
+  m_Script: {fileID: 11500000, guid: 1664cb29cff248fb9ddaa1c488db2bc2, type: 3}
   m_Name: Upgrade_HpBoost
   m_EditorClassIdentifier:
   id: hp_boost

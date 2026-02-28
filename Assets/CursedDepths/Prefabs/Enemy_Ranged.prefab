@@ -78,7 +78,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 400000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: ffffffffffffffffffffffffffffffff, type: 3}
+  m_Script: {fileID: 11500000, guid: 1c92fb66f9074a91a003d9c3543c9c1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 24

@@ -83,7 +83,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, type: 3}
+  m_Script: {fileID: 11500000, guid: 6623d7166d774d599aae62903bb8f217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &100006
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb, type: 3}
+  m_Script: {fileID: 11500000, guid: 0d41b25922ba4913a58c0fc2832fb6c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &100007
@@ -105,7 +105,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: cccccccccccccccccccccccccccccccc, type: 3}
+  m_Script: {fileID: 11500000, guid: 9b49ad7d5d2c44c2a72eb42f45980cc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   projectilePoolKey: Projectile

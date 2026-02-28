@@ -36,10 +36,10 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 800000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: 234567890abcdef1234567890abcdef1, type: 3}
+  m_Script: {fileID: 11500000, guid: f5927525bf514cd6b354f39f1b97c2ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  meleePrefab: {fileID: 300000, guid: 3a333333333333333333333333333333, type: 3}
-  rangedPrefab: {fileID: 400000, guid: 3a444444444444444444444444444444, type: 3}
-  bossPrefab: {fileID: 500000, guid: 3a555555555555555555555555555555, type: 3}
+  meleePrefab: {fileID: 300000, guid: aae197e1135b4b628034d7cb846b8a3d, type: 3}
+  rangedPrefab: {fileID: 400000, guid: a369a2fecce240c393a3594bdfa5fd83, type: 3}
+  bossPrefab: {fileID: 500000, guid: d9db239bb65c48a787d47ded89af8164, type: 3}
   spawnRadius: 6
