@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1234567890abcdef1234567890abcdef, type: 3}
+  m_Script: {fileID: 11500000, guid: e17a9c8665c442a9ba93c5f296922801, type: 3}
   m_Name: Wave_1
   m_EditorClassIdentifier:
   waveIndex: 1

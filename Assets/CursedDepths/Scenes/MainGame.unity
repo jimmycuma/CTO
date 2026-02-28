@@ -120,22 +120,22 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: 33333333333333333333333333333333, type: 3}
+  m_Script: {fileID: 11500000, guid: 700bd69f7c7b452686862259bdb7913a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerPrefab: {fileID: 100000, guid: 3a111111111111111111111111111111, type: 3}
-  waveManagerPrefab: {fileID: 800000, guid: 3a777777777777777777777777777777, type: 3}
-  poolManagerPrefab: {fileID: 700000, guid: 3a666666666666666666666666666666, type: 3}
-  uiManagerPrefab: {fileID: 900000, guid: 3a888888888888888888888888888888, type: 3}
-  audioManagerPrefab: {fileID: 1000000, guid: 3a999999999999999999999999999999, type: 3}
-  playerStats: {fileID: 11400000, guid: 2a111111111111111111111111111111, type: 2}
+  playerPrefab: {fileID: 100000, guid: 2fdea093f2f84eff8a6583392ea5d914, type: 3}
+  waveManagerPrefab: {fileID: 800000, guid: de8f0a1a03954b7b8a6d1b863aa8698a, type: 3}
+  poolManagerPrefab: {fileID: 700000, guid: a8e99abbe8f24ee2ba0ac6bf2b426c4a, type: 3}
+  uiManagerPrefab: {fileID: 900000, guid: 6e885433f28c4d9d913d9984f8e83776, type: 3}
+  audioManagerPrefab: {fileID: 1000000, guid: adb8d9b6e2a7490eab4257400df28566, type: 3}
+  playerStats: {fileID: 11400000, guid: 9c3a8dd6d55a4a85846be0b3c8bd35ae, type: 2}
   waveConfigs:
-  - {fileID: 11400000, guid: 2a666666666666666666666666666666, type: 2}
-  - {fileID: 11400000, guid: 2a777777777777777777777777777777, type: 2}
-  - {fileID: 11400000, guid: 2a888888888888888888888888888888, type: 2}
+  - {fileID: 11400000, guid: 5682cb1c64fd4b1280eb0005f2ab1da8, type: 2}
+  - {fileID: 11400000, guid: 172f4cf8f31149f7a86eeac6f7d516c6, type: 2}
+  - {fileID: 11400000, guid: 7240ccf38a734567b2fa42a79ef097e5, type: 2}
   upgrades:
-  - {fileID: 11400000, guid: 2a222222222222222222222222222222, type: 2}
-  - {fileID: 11400000, guid: 2a333333333333333333333333333333, type: 2}
-  - {fileID: 11400000, guid: 2a444444444444444444444444444444, type: 2}
+  - {fileID: 11400000, guid: 841757f90dba4fb8b3810671d2e37935, type: 2}
+  - {fileID: 11400000, guid: f6af7cb75b47439794e7219f543baba8, type: 2}
+  - {fileID: 11400000, guid: 49a9c05f738d41bc8d5430bd030e3035, type: 2}
   synergies:
-  - {fileID: 11400000, guid: 2a555555555555555555555555555555, type: 2}
+  - {fileID: 11400000, guid: f5b90d0fea6247a3b4aea81806daa01a, type: 2}

@@ -70,7 +70,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1000000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: e0abcdef1234567890abcdef12345678, type: 3}
+  m_Script: {fileID: 11500000, guid: 4a41023bf3cc4daeade13ba24d2408a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   musicSource: {fileID: 1000002}

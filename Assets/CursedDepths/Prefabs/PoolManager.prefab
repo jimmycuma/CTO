@@ -36,13 +36,13 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 700000}
   m_Enabled: 1
-  m_Script: {fileID: 11500000, guid: 44444444444444444444444444444444, type: 3}
+  m_Script: {fileID: 11500000, guid: b7c6646bd78148588700fa8d7fbb3aab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   pools:
   - key: Projectile
-    prefab: {fileID: 200000, guid: 3a222222222222222222222222222222, type: 3}
+    prefab: {fileID: 200000, guid: 5596ca9b502c4e3ab6f1705773bee655, type: 3}
     size: 18
   - key: ImpactVFX
-    prefab: {fileID: 600000, guid: 3abbbbbbbbbbbbbbbbbbbbbbbbbbbbbb, type: 3}
+    prefab: {fileID: 600000, guid: d5bef12145474182bb7831dbd03632c2, type: 3}
     size: 8
