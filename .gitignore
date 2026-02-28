@@ -26,14 +26,7 @@ x86/
 *.sln.docstates
 
 # Unity3D File Formats
-*.unity
-*.asset
-*.meta
-*.prefab
-*.anim
-*.controller
-*.mat
-*.unitypackage
+# (tracked in repo)
 
 # OS Generated
 .DS_Store
